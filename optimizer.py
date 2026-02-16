@@ -2,7 +2,7 @@ import re
 
 class PyFabEngine:
     """
-    Advanced logic engine for Mohamad Faraj Fayad's Fabrication Portfolio.
+    Advanced logic engine for MFZTX899 Fabrication Portfolio.
     [span_8](start_span)Integrates CNC programming knowledge[span_8](end_span) with Python automation.
     """
     def __init__(self, stock_area):
@@ -30,4 +30,4 @@ class PyFabEngine:
         return round(efficiency, 2)
 
 # Professional Profile Link
-# [span_11](start_span)Mohamad Faraj Fayad | IT & Graphic Technology[span_11](end_span)
+# [span_11](start_span)MFZTX899 | IT & Graphic Technology[span_11](end_span)

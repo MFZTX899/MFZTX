@@ -1,5 +1,5 @@
 # 🚀 PyFab-Optimizer: Industrial G-Code Analytics
-**Developer:** Mohamad Faraj Fayad  
+**Developer:** MFZTX899 
 **[span_2](start_span)Specialization:** IT & Technical Systems[span_2](end_span)
 
 ### 📖 Project Context
